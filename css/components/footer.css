@@ -1,0 +1,25 @@
+.footer {
+  background-color: rgb(31, 30, 30);
+  padding: 50px;
+}
+
+.links {
+  color:white;
+  text-align: center;
+}
+
+p .fas {
+  color:red;
+}
+
+a {
+  color: white;
+  font-size: 30px;
+  transition: 0.3s;
+}
+
+a:hover {
+  color:aqua;
+  font-size: 35px;
+  transition: 0.3s;
+}

@@ -1,0 +1,19 @@
+.button-banner  {
+  padding:15px 25px;
+  border:solid;
+  border-width:1px;
+  color:white;
+  letter-spacing:0.1px;
+  font-weight:bold;
+  background-color:#6AD58B;
+  border-radius:20px;
+  transition:0.2;
+  margin-top:15px;
+  font-size:large;
+}
+
+.button-banner:hover {
+  color:white;
+  background-color:#3AC162;
+  transition:0.2;
+}
